@@ -1,0 +1,29 @@
+* {
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.container {
+    display: flex;
+}
+
+.link {
+    padding-right: 10px;
+}
+
+.link-mega {
+    color: #209869;
+}
+
+.link-quina {
+    color: #930089;
+}
+
+.link-time {
+    color: #260085;
+}
+
+.link:active {
+    color: gray;
+}
